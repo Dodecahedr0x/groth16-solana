@@ -9,9 +9,9 @@ license = "MIT"
 [dependencies]
 solana-program = { version = "=2.1.6" }
 solana-bn254 = { version = "=2.1.6" }
-ark-serialize = "0.4.0"
-ark-ec = "0.4.0"
-ark-ff = "0.4.0"
+ark-serialize = "=0.4.0"
+ark-ec = "=0.4.0"
+ark-ff = "=0.4.0"
 ark-bn254 = "0.4.0"
 num-bigint = "0.4.6"
 thiserror = "1.0"
